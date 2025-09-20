@@ -1,3 +1,5 @@
 Tệp này được tạo trên GitHub.
 Tệp có ba dòng.
 Đã đồng bộ hóa với máy cục bộ sau.
+Dòng này được thêm vào cục bộ.
+Một dòng khác từ máy cục bộ.
