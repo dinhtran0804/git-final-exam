@@ -10,4 +10,6 @@ Ngày kết thúc: 27/09/2025
 - Thứ 7: Làm project nhỏ bằng Python.
 - Chủ nhật: Viết báo cáo, chuẩn bị kiểm tra.
 
+- chủ nhật: tham gia phong trào
+- thứ 2: sinh hoạt lớp
 
