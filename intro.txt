@@ -5,7 +5,7 @@ Mục tiêu của tôi là trở thành một lập trình viên giỏi.
 Tôi luôn cố gắng hoàn thiện bản thân mỗi ngày.
 
 Sở thích:
-Sở thích: đi ngắm sao
+
 - Đọc sách 
 - Chơi thể thao
 - Nghe nhạc
@@ -14,3 +14,9 @@ Kỹ năng:
 - Lập trình Python
 - Làm việc nhóm
 - Quản lý thời gian
+Kế hoạch học tập:
+- Ôn lại kiến thức Git và GitHub.
+- Học thêm về cấu trúc dữ liệu và giải thuật.
+- Thực hành làm dự án nhỏ bằng Python.
+- Rèn luyện kỹ năng viết tài liệu.
+- Tham gia các khóa học online để nâng cao kiến thức.
